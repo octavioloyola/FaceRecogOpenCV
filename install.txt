@@ -1,0 +1,8 @@
+Package                Version
+---------------------- --------
+numpy                  1.21.5
+opencv-contrib-python  4.5.5.62
+opencv-python          4.5.5.62
+opencv-python-headless 4.5.5.62
+pip                    22.0.3
+setuptools             41.2.0
